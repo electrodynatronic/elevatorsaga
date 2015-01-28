@@ -53,7 +53,7 @@ dl dd {
 
 
 .container {
-    width: 1220px;
+    width: 1000px;
     margin: 0 auto;
     padding: 20px 0 40px 0;
     background-color: #BFBD9F;
@@ -151,14 +151,14 @@ button.right {
 
 .CodeMirror {
     font: 14px Consolas, Monaco, monospace;
-    width: 1220px;
+    width: 1000px;
     margin: 10px auto;
     height: 320px;
 }
 
 .world {
     position: relative;
-    width: 1220px;
+    width: 1000px;
     background-color: #333;
     padding: 0;
     overflow: hidden;
